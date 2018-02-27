@@ -1,5 +1,5 @@
 # Aerial-image-calculation-and-Photolithography-simulation-matlab
-Get the code from here:  https://gum.co/uzXhh
+Get the code from here:  https://gum.co/xlRc
 
 Watch the code from here:
 https://youtu.be/cHffdMyl15M
@@ -11,7 +11,7 @@ This code takes in the mask pattern as the polygons boundary points and then sim
 You can control the technology and simulation parameters as explained in the video.
 Contact me:
 email: s-ahmed.saleh@zewailcity.edu.eg
-List of all my codes: https://gumroad.com/ahmed_s
+List of all my codes: https://gumroad.com/ahmedsaleh
 
 Hire me directly on freelancer:
 https://www.freelancer.com/u/AhmedSobhiSaleh
